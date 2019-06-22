@@ -10,6 +10,14 @@ Tic-Tac-Toe is a pencil-and-paper game for two players, X and O, who take turns 
 * X and O
 * O-X
 
-Game Features:
+### Game Features:
 * 3 by 3 grid
 * Two players (play against another human)
+
+### Future Updates:
+* Computer Mode (AI)
+* Player Name Configuration
+* Amazing Music
+
+### To Download the apk file Visit Below
+* <https://mubeenpatel99.github.io/mubeenpatel.github.io/files/androidtictactoe.html>
