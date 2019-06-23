@@ -20,7 +20,7 @@ Tic-Tac-Toe is a pencil-and-paper game for two players, X and O, who take turns 
 * Amazing Music
 
 ### To Download the apk file Visit Below:
-* <https://github.com/mubeenpatel99/TicTacToeAndroid/releases/tag/v0.5-beta>
+* <https://github.com/mubeenpatel99/TicTacToeAndroid/releases/tag/v1.0>
 
 ### For more Information Visit Below:
 * <https://mubeenpatel99.github.io/mubeenpatel.github.io/files/androidtictactoe.html>
